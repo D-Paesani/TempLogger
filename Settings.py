@@ -1,8 +1,8 @@
 
 
-serialPort = '/dev/cu.usbmodem14601'
+serialPort = '/dev/cu.usbmodem144401'
 bauds = 9600
-chanNo = 4
+chanNo = 6
 avgNo = 2
 errorCode = 9999
 precision = '{:.3f}'
