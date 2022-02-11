@@ -1,6 +1,6 @@
 
 
-serialPort = '/dev/cu.usbmodem144401'
+serialPort = '/dev/cu.usbmodem145401'
 bauds = 9600
 chanNo = 6
 avgNo = 2
