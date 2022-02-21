@@ -12,8 +12,8 @@ tMax = 130
 timeTagFormat = "%Y-%m-%d_%H:%M:%S"
 serTimeout = 5
 samplesToDisplay = 100000
-samplesToDiscard = 4
-rowsToSkip = 2
+samplesToDiscard = 3
+rowsToSkip = 1
 yLimits = None #[10, 50]
 
 logFile = 'data/tempLog_'
